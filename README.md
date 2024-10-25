@@ -14,41 +14,12 @@ In this repository, you'll discover the best ways to use Data Structures and Alg
 
 # Contents
 ## Array <a name="array"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
-## test <a name="test"></a>
+Array has a high complexity more than it seems.
+Look at this code in JavaScript:
+```
+let array = []
+```
+
 
 
 
