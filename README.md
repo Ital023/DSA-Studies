@@ -7,10 +7,50 @@
 In this repository, you'll discover the best ways to use Data Structures and Algorithms (DSA) to solve programming problems. I've chosen Python as the language to study DSA.
 
 # Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+1. [Array](#array)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+# Contents
+## Array <a name="array"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+## test <a name="test"></a>
+
+
 
 
 ## 🤝 Contributors
